@@ -1,0 +1,7 @@
+﻿  Card.cpp
+  Game.cpp
+  main.cpp
+D:\Visual Studio\PROGECTS\Card_Game_Durak\Homework_OOP_6\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  Homework_OOP_6.vcxproj -> D:\Visual Studio\PROGECTS\Card_Game_Durak\x64\Debug\Homework_OOP_6.exe
